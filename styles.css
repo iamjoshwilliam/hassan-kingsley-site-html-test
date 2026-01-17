@@ -74,6 +74,3 @@ button {
     font-family: var(--font);
     width: 160px;
 }
-body {
-  background: red !important;
-}
