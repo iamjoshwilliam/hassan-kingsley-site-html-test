@@ -1,4 +1,10 @@
 :root {
+  --background: #4aa3ff;            /* your blue */
+  --text: #111111;                  /* near-black text */
+  --font: 'Black Ops One', system-ui, sans-serif;
+  --image: 16px;                    /* rounded corners */
+}
+{
     --superhero: 'Bangers', cursive;
     --fantasy: 'MedievalSharp', cursive;
     --space: 'Orbitron', sans-serif;
